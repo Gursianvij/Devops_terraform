@@ -1,0 +1,1 @@
+rg-vn-vm = {"vn-vm" = "East US"}
